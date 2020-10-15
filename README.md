@@ -93,11 +93,11 @@ ds = hub.load("username/basic")
 For more advanced data pipelines like uploading large datasets or applying many transformations, please see [docs](http://docs.activeloop.ai).
 
 ## Things you can do with Hub
-* Store large datasets with version-control
-* Collaborate as in Google Docs: Multiple data scientists working on the same data in sync with no interruptions
-* Access from multiple machines simultaneously
+* Store large datasets with version-control!
+* Collaborate as in Google Docs: Multiple data scientists working on the same data in sync with no interruptions!
+* Access from multiple machines simultaneously!
 * Integration with your ML tools like Numpy, Dask, PyTorch, or TensorFlow.
-* Create arrays as big as you want
+* Create arrays as big as you want!
 * Take a quick look on your data without redundant manipulations/in a matter of seconds/etc.
 
 ## Use Cases
